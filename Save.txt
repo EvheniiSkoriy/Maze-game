@@ -1,2 +1,0 @@
-Quagmire,quagmire.jpg,2,1,1
-Quagmire,quagmire.jpg,3,1,1
